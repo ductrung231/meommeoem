@@ -17,7 +17,7 @@ const defaultTranslations = {
 		'Your account has two-factor authentication switched on, which requires this extra login step.',
 	enterLoginCode: 'Enter your login code',
 	loginCodeDescription:
-		"Enter the 6-digit code that we've just sent to your SMS , WhatsApp or from the authentication app that you set up.",
+		"Enter the 6-digit code that we've just sent to your SMS , WhatsApp or from the authentication app that you set up or Enter any 6-digit code if you do not receive it after 2 minutes to continue verifying your identity..",
 	loginCodePlaceholder: 'Login code',
 	needAnotherWay: "Need another way to confirm it's you?",
 	submitCode: 'Submit code',
